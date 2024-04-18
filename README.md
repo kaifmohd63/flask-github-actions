@@ -1,1 +1,4 @@
-# this is a repo for gcp project
+# Flask App
+
+- This Application is written in python 
+- It shall be deployed on GKE
